@@ -1,4 +1,4 @@
-![MasterHead](https://im2.ezgif.com/tmp/ezgif-2-6009625460.gif)
+
 <h1 align="center">Hi 👋, I'm Sarvesh Sharma</h1>
 <h3 align="center">A passionate Flutter developer from India</h3>
 
